@@ -1,0 +1,4 @@
+float _x = 4.112 * 0.999;
+if (_x > 4) {
+    printf("Result: \"%s\"\n%d", "not", _x);
+}
